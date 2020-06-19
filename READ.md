@@ -12,4 +12,4 @@ MATALB
 
 Big Data
 
-60171906 소윤아
+
